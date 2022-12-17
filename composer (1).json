@@ -28,11 +28,7 @@
 		},
 		"apcu-autoloader": true,
 		"classmap-authoritative": true,
-		"install -a/--classmap-authoritative,
-		"dump-autload -a/--classmap-authoritative,
 		"optimize-autoloader": true,
-		"install -0/ --optimize-autoloader,
-		"dump-autoload -0/--optimize
 		"allow-plugins": {
 			"composer/package-versions-deprecated": true,
 			"composer/installers": true
